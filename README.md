@@ -1,6 +1,6 @@
 # System Backup Scripts
 
-A collection of bash scripts for creating comprehensive system backups for personal use. These scripts create detailed system information reports and backup critical system directories while excluding unnecessary cache and temporary files. Currently working on a windows script.
+A collection of bash scripts for creating comprehensive system backups for personal use. These scripts create detailed system information reports and backup critical system directories while excluding unnecessary cache and temporary files. Currently working on a windows script, with plans to do others in the future.
 
 ## Features
 
