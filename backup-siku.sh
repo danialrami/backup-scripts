@@ -59,6 +59,8 @@ fi
 
 # Create backup directory structure
 mkdir -p "$BACKUP_PATH"
+chmod 755 "$BACKUP_DIR"
+chmod 777 "$BACKUP_PATH"
 touch "$BACKUP_PATH/backup.log"
 
 # Start backup process
