@@ -7,7 +7,7 @@
 ###########################################
 
 # Configuration Variables
-BACKUP_DIR="/mnt/extreme/system-backup"  # Base directory for backups
+BACKUP_DIR="/mnt/clarion/backups/"  # Base directory for backups
 MAX_BACKUPS=3                              # Number of backups to retain
 USERNAME="$(logname)"                      # Get the actual username who ran sudo
 TIMESTAMP=$(date '+%Y-%m-%d_%H-%M-%S')     # Create unique timestamp for this backup
