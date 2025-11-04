@@ -1,0 +1,6 @@
+# Backup directories
+windows-backups/
+wsl-backups/
+
+# Log directory
+carnyx-logs/
